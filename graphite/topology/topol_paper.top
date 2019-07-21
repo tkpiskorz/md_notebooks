@@ -1,0 +1,11 @@
+#include "FF/martini_v2.15.itp"
+#include "FF/martini_v2.0_solvents.itp"
+#include "FF/martini_v2.0_graphite.itp"
+#include "FF/martini_v2.0_adsorbants.itp"
+
+[ system ]
+Adsoption on graphate
+[ molecules ]
+GRAP 18000 ;5 graphite sheets
+AM25      388
+PHEO   10476

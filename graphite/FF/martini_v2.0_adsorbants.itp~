@@ -1,0 +1,154 @@
+;topology for amide3         
+
+[moleculetype]
+; molname   nrexcl
+   AM25       1
+
+[atoms]
+; id    type   resnr  residu  atom    cgnr    charge
+  1     C1E     1      AM25    C1A     1       0
+  2     P1      1      AM25    C1B     2       0
+  3     C1S     1      AM25    C1C     3       0
+  4     C1S     1      AM25    C1D     4       0
+  5     P1      1      AM25    C1E     5       0
+  6     C1E     1      AM25    C1F     6       0
+
+[bonds]
+; i j   funct   length  force.c.
+  1 2   1       0.510   1250
+  2 3   1       0.510   1250
+  3 4   1       0.510   1250
+  4 5   1       0.510   1250
+  5 6   1       0.510   1250
+
+[angles]
+; i j k         funct   angle   force.c.
+  1 2 3         2       180.0   30.0
+  2 3 4         2       180.0   30.0
+  3 4 5         2       180.0   30.0
+  4 5 6         2       180.0   30.0
+
+
+;topology for amide3         
+
+[moleculetype]
+; molname   nrexcl
+   AM2       1
+
+[atoms]
+; id    type   resnr  residu  atom    cgnr    charge
+  1     C1E     1      AM2    C1A     1       0
+  2     P1      1      AM2    AMA     2       0
+  3     C1S     1      AM2    C1C     3       0
+  4     C1S     1      AM2    C1D     4       0
+  5     C1S     1      AM2    C1E     5       0
+  6     C1E     1      AM2    C1F     6       0
+
+[bonds]
+; i j   funct   length  force.c.
+  1 2   1       0.510   1250
+  2 3   1       0.510   1250
+  3 4   1       0.510   1250
+  4 5   1       0.510   1250
+  5 6   1       0.510   1250
+
+[angles]
+; i j k         funct   angle   force.c.
+  1 2 3         2       180.0   30.0
+  2 3 4         2       180.0   30.0
+  3 4 5         2       180.0   30.0
+  4 5 6         2       180.0   30.0
+
+
+;topology for amide3         
+
+[moleculetype]
+; molname   nrexcl
+   AM3       1
+
+[atoms]
+; id    type   resnr  residu  atom    cgnr    charge
+  1     C1E     1      AM3    C1A     1       0
+  2     C1S     1      AM3    C1B     2       0
+  3     P1      1      AM3    ANA     3       0
+  4     C1S     1      AM3    C1D     4       0
+  5     C1S     1      AM3    C1E     5       0
+  6     C1E     1      AM3    C1F     6       0
+
+[bonds]
+; i j   funct   length  force.c.
+  1 2   1       0.510   1250
+  2 3   1       0.510   1250
+  3 4   1       0.510   1250
+  4 5   1       0.510   1250
+  5 6   1       0.510   1250
+
+[angles]
+; i j k         funct   angle   force.c.
+  1 2 3         2       180.0   30.0
+  2 3 4         2       180.0   30.0
+  3 4 5         2       180.0   30.0
+  4 5 6         2       180.0   30.0
+
+;topology for tetracosanol   
+
+[moleculetype]
+; molname   nrexcl
+   ALK       1
+
+[atoms]
+; id    type   resnr  residu  atom    cgnr    charge
+  1     C1E     1      ALK    C1A     1       0
+  2     C1S     1      ALK    C1B     2       0
+  3     C1S     1      ALK    C1C     3       0
+  4     C1S     1      ALK    C1D     4       0
+  5     C1S     1      ALK    C1E     5       0
+  6     C1E     1      ALK    C1F     6       0
+
+[bonds]
+; i j   funct   length  force.c.
+  1 2   1       0.510   1250
+  2 3   1       0.510   1250
+  3 4   1       0.510   1250
+  4 5   1       0.510   1250
+  5 6   1       0.510   1250
+
+[angles]
+; i j k         funct   angle   force.c.
+  1 2 3         2       180.0   30.0
+  2 3 4         2       180.0   30.0
+  3 4 5         2       180.0   30.0
+  4 5 6         2       180.0   30.0
+
+
+;topology for tetracosanol   
+
+[moleculetype]
+; molname   nrexcl
+   AL1       1
+
+[atoms]
+; id    type   resnr  residu  atom    cgnr    charge
+  1     C1E     1      AL1    C1A     1       0
+  2     C1S     1      AL1    C1B     2       0
+  3     C1S     1      AL1    C1C     3       0
+  4     C1S     1      AL1    C1D     4       0
+  5     C1S     1      AL1    C1E     5       0
+  6     P1      1      AL1    OHA     6       0
+
+[bonds]
+; i j   funct   length  force.c.
+  1 2   1       0.510   1250
+  2 3   1       0.510   1250
+  3 4   1       0.510   1250
+  4 5   1       0.510   1250
+  5 6   1       0.510   1250
+
+[angles]
+; i j k         funct   angle   force.c.
+  1 2 3         2       180.0   30.0
+  2 3 4         2       180.0   30.0
+  3 4 5         2       180.0   30.0
+  4 5 6         2       180.0   30.0
+
+

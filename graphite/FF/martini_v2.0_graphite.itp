@@ -1,0 +1,12 @@
+;;;;;; GRAPHITE
+
+[ moleculetype ]
+; molname       nrexcl
+   GRAP           1
+
+[ atoms ]
+;id type resnr residu atom cgnr  charge
+ 1  SG4    1    GRAP  SGR   1     0
+
+;[ position_restraints ]
+; 1  1  0.0  0.0  5000.
